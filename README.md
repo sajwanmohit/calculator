@@ -4,4 +4,6 @@
 2.python
 
 #screenshots
-![]()
+![](gui.png)
+![](error.png)
+![](error1.png)
